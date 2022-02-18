@@ -12,6 +12,8 @@ package part2
  */
 fun solution(a: String): Char {
     TODO("Not yet implemented")
+
+    when a
 }
 
 fun main() {
